@@ -1,6 +1,6 @@
 import Image from "next/image";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
+import Header from "../../components/Header";
+import Footer from "../../components/Footer";
 
 export default function Dashboard() {
     
@@ -10,11 +10,11 @@ export default function Dashboard() {
             <main className="p-5">
                 <h1 className="text-3xl text-blue-500">Dashboard</h1>
                 <p>
-                    fdsfdsfsdf
+                    Graficos podem ser apresentados sobre suas financas
                 </p>
 
                 <p>
-                    fdsfsd
+                    Entre mais conteudo
                 </p>
             </main>
             <Footer />

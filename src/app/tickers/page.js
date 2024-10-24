@@ -12,7 +12,7 @@ export default function Tickers() {
             <Header isLogged={true} />
 
             <main className="p-5">
-                <h1 className="text-3xl text-blue-500">Tickers</h1>
+                <h1 className="text-3xl text-blue-700 font-bold">Ações</h1>
 
                 <div className="flex flex-1 gap-4 mt-4 mb-4">
 
