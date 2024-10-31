@@ -1,8 +1,8 @@
 import Image from "next/image";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
+import Header from "../../components/Header";
+import Footer from "../../components/Footer";
 import Link from "next/link";
-import CardTicker from "@/components/CardTicker";
+import CardTicker from "../../components/CardTicker";
 
 export default function Tickers() {
 
